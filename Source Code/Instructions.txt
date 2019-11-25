@@ -1,0 +1,9 @@
+This program requires no installation.
+You can Execute this Python Program like any other Simple Python Program.
+
+On windows after navigating to the directory where the program is present using command prompt following line is enough 
+to start the program , you can even run using IDLE:-
+
+py pywinhash.py
+
+NOTE: This software is for windows only . For linux use Forensic Nightmare v8
